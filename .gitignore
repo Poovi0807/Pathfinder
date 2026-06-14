@@ -1,0 +1,5 @@
+customers.json
+onboarding_report.csv
+__pycache__/
+*.pyc
+.DS_Store
