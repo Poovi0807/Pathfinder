@@ -28,11 +28,13 @@ This project simulates the kind of onboarding workflow coordination used in cust
 ## Project Structure
 
 ```
-pathfinder/
-├── tracker.py        # Main CLI application
-├── seed_data.py      # Script to load sample customers for demo
-├── .gitignore
-└── README.md
+Pathfinder/
+├── tracker.py        ←  main app
+├── Dockerfile        
+├── README.md
+├── customers.json    
+├── logs/             
+└── backups/          
 ```
 
 ---
