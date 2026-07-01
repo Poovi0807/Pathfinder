@@ -1,0 +1,4 @@
+2026-06-30 22:05:50  INFO      SESSION: Pathfinder started.
+2026-06-30 22:08:00  INFO      ADD: 'John smith' <john@techcorp.com> from techcrop
+2026-06-30 22:08:31  INFO      STAGE: 'john smith' invited \u2192 training
+2026-06-30 22:09:47  INFO      EXPORT: CSV written to 'report.csv' (6 records)

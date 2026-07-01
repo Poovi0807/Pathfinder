@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Alice Müller",
+    "company": "GeoVision GmbH",
+    "email": "alice@geovision.de",
+    "stage": "training",
+    "added_on": "2026-06-15",
+    "notes": [
+      {
+        "date": "2026-06-15",
+        "note": "Completed intro session. Interested in Planet Basemaps API."
+      },
+      {
+        "date": "2026-06-15",
+        "note": "Make the repoprt ready"
+      }
+    ]
+  },
+  {
+    "name": "James Okafor",
+    "company": "AgriSense Ltd",
+    "email": "j.okafor@agrisense.io",
+    "stage": "active",
+    "added_on": "2026-06-15",
+    "notes": [
+      {
+        "date": "2026-06-15",
+        "note": "Using Planet NICFI data for crop monitoring. Very engaged."
+      }
+    ]
+  },
+  {
+    "name": "Priya Sharma",
+    "company": "UrbanTech Solutions",
+    "email": "priya@urbantech.in",
+    "stage": "invited",
+    "added_on": "2026-06-15",
+    "notes": [
+      {
+        "date": "2026-06-15",
+        "note": "Sent welcome email. Awaiting first login."
+      }
+    ]
+  },
+  {
+    "name": "Carlos Rivera",
+    "company": "MapWorld Inc",
+    "email": "c.rivera@mapworld.com",
+    "stage": "completed",
+    "added_on": "2026-06-15",
+    "notes": [
+      {
+        "date": "2026-06-15",
+        "note": "All onboarding steps done. Handed off to Customer Success."
+      }
+    ]
+  },
+  {
+    "name": "Lin Zhao",
+    "company": "ClimateTrack",
+    "email": "lin@climatetrack.org",
+    "stage": "training",
+    "added_on": "2026-06-15",
+    "notes": [
+      {
+        "date": "2026-06-15",
+        "note": "Attended first training session. Questions about data resolution."
+      }
+    ]
+  },
+  {
+    "name": "John smith",
+    "company": "techcrop",
+    "email": "john@techcorp.com",
+    "stage": "invited",
+    "added_on": "2026-06-30",
+    "notes": []
+  }
+]
